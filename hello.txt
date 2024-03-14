@@ -1,0 +1,2 @@
+PlP = " Hello Power Learn Instructor's , this is Dev AdyBay and it's such an honour to learn new programming language under your platform.You guys are the real MVP";
+console.log ("PLP);
